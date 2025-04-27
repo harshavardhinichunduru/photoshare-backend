@@ -1,0 +1,9 @@
+#go to the extraction path and execute the below commands. 
+#note: note connected with Amdocs full vpn
+
+python -m venv InvoiceValidation
+pip install -r requirements.txt
+
+
+#once complete the installation, enter the inputs into inputs.xls file. 
+py Invoice_Validation.py

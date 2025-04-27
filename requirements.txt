@@ -1,0 +1,9 @@
+openpyxl
+pdfplumber
+pandas
+pdfminer.six
+paramiko
+easyocr
+opencv-python
+numpy
+PyMuPDF

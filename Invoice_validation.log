@@ -1,0 +1,244 @@
+2025-04-22 16:14:24,410:INFO:Info: Reading input.xlsx
+2025-04-22 16:14:32,566:INFO:Connected (version 2.0, client OpenSSH_5.3)
+2025-04-22 16:14:38,255:INFO:Authentication (publickey) failed.
+2025-04-22 16:14:38,962:INFO:Authentication (password) successful!
+2025-04-22 16:14:40,210:INFO:[chan 0] Opened sftp connection (server version 3)
+2025-04-22 16:14:41,291:INFO:[chan 0] sftp session closed.
+2025-04-22 16:14:44,409:INFO:[chan 2] Opened sftp connection (server version 3)
+2025-04-22 16:14:45,564:INFO:[chan 2] sftp session closed.
+2025-04-22 16:14:47,142:INFO:Connection closed.
+2025-04-22 16:14:57,788:WARNING:Using CPU. Note: This module is much faster with a GPU.
+2025-04-22 16:15:05,695:INFO:MKT_CODE:    2 
+2025-04-22 16:15:05,696:INFO:MKT_CODE_VALUES:    DUT 
+2025-04-22 16:15:05,696:INFO:owning_cost_ctr:    1 
+2025-04-22 16:15:05,697:INFO:CURRENCY_CODE_VALUES:    USD 
+2025-04-22 16:15:05,697:INFO:ACCOUNT_CATEGORY:    B2B 
+2025-04-22 16:15:05,698:INFO:LANGUAGE:    PAP 
+2025-04-22 16:15:05,698:INFO:pdf_file:    BILL_0_66880867_1_7752488_-270536.pdf 
+2025-04-22 16:15:05,699:INFO:BILL_REF_NO:    nan 
+2025-04-22 16:15:05,699:INFO:Account_Number:    1268498288 
+2025-04-22 16:15:05,700:INFO:Invoice_Date:    20 Dec 24 
+2025-04-22 16:15:05,700:INFO:Usage_Period:    20 Nov - 19 Dec 
+2025-04-22 16:15:05,701:INFO:Due_Date:    1 Feb 25 
+2025-04-22 16:15:05,701:INFO:Tax:    6 
+2025-04-22 16:15:05,701:INFO:Info: Reading Language_Strings.xlsx
+2025-04-22 16:15:05,848:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 16:15:05,851:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 16:15:06,079:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 16:15:06,080:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 16:15:06,098:INFO:Info: Logo matched on all pages!
+2025-04-22 16:15:06,124:INFO:Error: Promo not matched.
+2025-04-22 16:15:06,129:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 16:15:06,214:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 16:15:06,263:INFO:Info: Verifiying Page 1
+2025-04-22 16:15:06,264:INFO:Info: No Bill_Ref_no provided. Considering this as Proforma.
+2025-04-22 16:15:10,167:INFO:Info: Verifiying Page 2
+2025-04-22 16:15:10,168:INFO:Info: Payment Received is 0. So, not checking on 2nd page.
+2025-04-22 16:15:10,170:INFO:Info: Verification Completed!
+2025-04-22 16:15:10,171:INFO:====================================================================================================
+2025-04-22 16:15:10,171:INFO:Validation Report:
+2025-04-22 16:15:10,172:INFO:Point7: <<< Failed >>>
+2025-04-22 16:15:10,172:INFO:Failed: Account_no (1268498288) - Bill_ref_No (nan) - Failed
+2025-04-22 16:15:10,272:INFO:====================================================================================================
+2025-04-22 17:49:54,096:INFO:Info: Reading input.xlsx
+2025-04-22 17:49:58,857:INFO:Connected (version 2.0, client OpenSSH_5.3)
+2025-04-22 17:50:02,127:INFO:Authentication (password) successful!
+2025-04-22 17:50:03,122:INFO:[chan 0] Opened sftp connection (server version 3)
+2025-04-22 17:50:04,107:INFO:[chan 0] sftp session closed.
+2025-04-22 17:50:06,918:INFO:[chan 2] Opened sftp connection (server version 3)
+2025-04-22 17:50:07,917:INFO:[chan 2] sftp session closed.
+2025-04-22 17:50:09,250:INFO:Connection closed.
+2025-04-22 17:50:12,318:WARNING:Using CPU. Note: This module is much faster with a GPU.
+2025-04-22 17:50:15,670:INFO:MKT_CODE:    2 
+2025-04-22 17:50:15,670:INFO:MKT_CODE_VALUES:    DUT 
+2025-04-22 17:50:15,670:INFO:owning_cost_ctr:    1 
+2025-04-22 17:50:15,671:INFO:CURRENCY_CODE_VALUES:    USD 
+2025-04-22 17:50:15,671:INFO:ACCOUNT_CATEGORY:    B2B 
+2025-04-22 17:50:15,671:INFO:LANGUAGE:    PAP 
+2025-04-22 17:50:15,671:INFO:pdf_file:    BILL_0_66880867_1_7752488_-270536.pdf 
+2025-04-22 17:50:15,671:INFO:BILL_REF_NO:    nan 
+2025-04-22 17:50:15,672:INFO:Account_Number:    1268498288 
+2025-04-22 17:50:15,672:INFO:Invoice_Date:    20 Dec 24 
+2025-04-22 17:50:15,672:INFO:Usage_Period:    20 Nov - 19 Dec 
+2025-04-22 17:50:15,672:INFO:Due_Date:    1 Feb 25 
+2025-04-22 17:50:15,672:INFO:Tax:    6 
+2025-04-22 17:50:15,672:INFO:Info: Reading Language_Strings.xlsx
+2025-04-22 17:50:15,751:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:50:15,752:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:50:15,834:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:50:15,834:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:50:15,864:INFO:Info: Logo matched on all pages!
+2025-04-22 17:50:15,875:INFO:Error: Promo not matched.
+2025-04-22 17:50:15,879:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:50:15,925:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:50:15,953:INFO:Info: Verifiying Page 1
+2025-04-22 17:50:15,956:INFO:Info: No Bill_Ref_no provided. Considering this as Proforma.
+2025-04-22 17:50:17,747:INFO:Info: Verifiying Page 2
+2025-04-22 17:50:17,748:INFO:Info: Payment Received is 0. So, not checking on 2nd page.
+2025-04-22 17:50:17,748:INFO:Info: Verification Completed!
+2025-04-22 17:50:17,749:INFO:====================================================================================================
+2025-04-22 17:50:17,749:INFO:Validation Report:
+2025-04-22 17:50:17,749:INFO:Point7: <<< Failed >>>
+2025-04-22 17:50:17,749:INFO:Failed: Account_no (1268498288) - Bill_ref_No (nan) - Failed
+2025-04-22 17:50:17,822:INFO:====================================================================================================
+2025-04-22 17:51:50,052:INFO:Info: Reading input.xlsx
+2025-04-22 17:51:54,939:INFO:Connected (version 2.0, client OpenSSH_5.3)
+2025-04-22 17:51:56,989:INFO:Authentication (password) successful!
+2025-04-22 17:51:58,063:INFO:[chan 0] Opened sftp connection (server version 3)
+2025-04-22 17:51:59,046:INFO:[chan 0] sftp session closed.
+2025-04-22 17:52:00,877:WARNING:Using CPU. Note: This module is much faster with a GPU.
+2025-04-22 17:52:01,770:INFO:[chan 2] Opened sftp connection (server version 3)
+2025-04-22 17:52:02,749:INFO:[chan 2] sftp session closed.
+2025-04-22 17:52:03,879:INFO:MKT_CODE:    2 
+2025-04-22 17:52:03,879:INFO:MKT_CODE_VALUES:    DUT 
+2025-04-22 17:52:03,879:INFO:owning_cost_ctr:    1 
+2025-04-22 17:52:03,879:INFO:CURRENCY_CODE_VALUES:    USD 
+2025-04-22 17:52:03,879:INFO:ACCOUNT_CATEGORY:    B2B 
+2025-04-22 17:52:03,879:INFO:LANGUAGE:    PAP 
+2025-04-22 17:52:03,879:INFO:pdf_file:    BILL_0_66880867_1_7752488_-270536.pdf 
+2025-04-22 17:52:03,880:INFO:BILL_REF_NO:    nan 
+2025-04-22 17:52:03,880:INFO:Account_Number:    1268498288 
+2025-04-22 17:52:03,880:INFO:Invoice_Date:    20 Dec 24 
+2025-04-22 17:52:03,880:INFO:Usage_Period:    20 Nov - 19 Dec 
+2025-04-22 17:52:03,880:INFO:Due_Date:    1 Feb 25 
+2025-04-22 17:52:03,880:INFO:Tax:    6 
+2025-04-22 17:52:03,880:INFO:Info: Reading Language_Strings.xlsx
+2025-04-22 17:52:03,951:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:52:03,952:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:52:04,033:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:52:04,033:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:52:04,035:INFO:Info: Logo matched on all pages!
+2025-04-22 17:52:04,043:INFO:Error: Promo not matched.
+2025-04-22 17:52:04,045:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:52:04,082:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:52:04,110:INFO:Info: Verifiying Page 1
+2025-04-22 17:52:04,110:INFO:Connection closed.
+2025-04-22 17:52:04,110:INFO:Info: No Bill_Ref_no provided. Considering this as Proforma.
+2025-04-22 17:52:05,692:INFO:Info: Verifiying Page 2
+2025-04-22 17:52:05,693:INFO:Info: Payment Received is 0. So, not checking on 2nd page.
+2025-04-22 17:52:05,693:INFO:Info: Verification Completed!
+2025-04-22 17:52:05,694:INFO:====================================================================================================
+2025-04-22 17:52:05,694:INFO:Validation Report:
+2025-04-22 17:52:05,694:INFO:Point7: <<< Failed >>>
+2025-04-22 17:52:05,694:INFO:Failed: Account_no (1268498288) - Bill_ref_No (nan) - Failed
+2025-04-22 17:52:05,753:INFO:====================================================================================================
+2025-04-22 17:55:54,436:INFO:Info: Reading input.xlsx
+2025-04-22 17:55:56,084:INFO:Connected (version 2.0, client OpenSSH_5.3)
+2025-04-22 17:55:58,245:INFO:Authentication (password) successful!
+2025-04-22 17:55:59,244:INFO:[chan 0] Opened sftp connection (server version 3)
+2025-04-22 17:56:00,259:INFO:[chan 0] sftp session closed.
+2025-04-22 17:56:01,881:WARNING:Using CPU. Note: This module is much faster with a GPU.
+2025-04-22 17:56:02,987:INFO:[chan 2] Opened sftp connection (server version 3)
+2025-04-22 17:56:03,990:INFO:[chan 2] sftp session closed.
+2025-04-22 17:56:04,960:INFO:MKT_CODE:    2 
+2025-04-22 17:56:04,961:INFO:MKT_CODE_VALUES:    BON 
+2025-04-22 17:56:04,961:INFO:owning_cost_ctr:    1 
+2025-04-22 17:56:04,961:INFO:CURRENCY_CODE_VALUES:    USD 
+2025-04-22 17:56:04,961:INFO:ACCOUNT_CATEGORY:    B2B 
+2025-04-22 17:56:04,961:INFO:LANGUAGE:    PAP 
+2025-04-22 17:56:04,961:INFO:pdf_file:    BILL_0_66880867_1_7752488_-270536.pdf 
+2025-04-22 17:56:04,961:INFO:BILL_REF_NO:    nan 
+2025-04-22 17:56:04,963:INFO:Account_Number:    1268498288 
+2025-04-22 17:56:04,963:INFO:Invoice_Date:    20 Dec 24 
+2025-04-22 17:56:04,963:INFO:Usage_Period:    20 Nov - 19 Dec 
+2025-04-22 17:56:04,963:INFO:Due_Date:    1 Feb 25 
+2025-04-22 17:56:04,964:INFO:Tax:    6 
+2025-04-22 17:56:04,964:INFO:Info: Reading Language_Strings.xlsx
+2025-04-22 17:56:05,046:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:56:05,050:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:56:05,122:INFO:Info: Logo matched on all pages!
+2025-04-22 17:56:05,129:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:56:05,133:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:56:05,193:INFO:Info: Promo matched!
+2025-04-22 17:56:05,195:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:56:05,230:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:56:05,256:INFO:Info: Verifiying Page 1
+2025-04-22 17:56:05,257:INFO:Info: No Bill_Ref_no provided. Considering this as Proforma.
+2025-04-22 17:56:05,344:INFO:Connection closed.
+2025-04-22 17:56:06,836:INFO:Info: Verifiying Page 2
+2025-04-22 17:56:06,836:INFO:Info: Payment Received is 0. So, not checking on 2nd page.
+2025-04-22 17:56:06,837:INFO:Info: Verification Completed!
+2025-04-22 17:56:06,837:INFO:====================================================================================================
+2025-04-22 17:56:06,837:INFO:Validation Report:
+2025-04-22 17:56:06,837:INFO:Success: Account_no (1268498288) - Bill_ref_No (nan) - success
+2025-04-22 17:56:06,905:INFO:====================================================================================================
+2025-04-22 17:57:52,174:INFO:Info: Reading input.xlsx
+2025-04-22 17:57:53,785:INFO:Connected (version 2.0, client OpenSSH_5.3)
+2025-04-22 17:57:55,922:INFO:Authentication (password) successful!
+2025-04-22 17:57:56,914:INFO:[chan 0] Opened sftp connection (server version 3)
+2025-04-22 17:57:57,900:INFO:[chan 0] sftp session closed.
+2025-04-22 17:57:59,955:WARNING:Using CPU. Note: This module is much faster with a GPU.
+2025-04-22 17:58:00,614:INFO:[chan 2] Opened sftp connection (server version 3)
+2025-04-22 17:58:01,604:INFO:[chan 2] sftp session closed.
+2025-04-22 17:58:02,974:INFO:Connection closed.
+2025-04-22 17:58:03,114:INFO:MKT_CODE:    2 
+2025-04-22 17:58:03,114:INFO:MKT_CODE_VALUES:    BON 
+2025-04-22 17:58:03,114:INFO:owning_cost_ctr:    1 
+2025-04-22 17:58:03,114:INFO:CURRENCY_CODE_VALUES:    USD 
+2025-04-22 17:58:03,114:INFO:ACCOUNT_CATEGORY:    B2B 
+2025-04-22 17:58:03,114:INFO:LANGUAGE:    PAP 
+2025-04-22 17:58:03,114:INFO:pdf_file:    BILL_0_66880867_1_7752488_-270536.pdf 
+2025-04-22 17:58:03,116:INFO:BILL_REF_NO:    nan 
+2025-04-22 17:58:03,116:INFO:Account_Number:    1268498288 
+2025-04-22 17:58:03,116:INFO:Invoice_Date:    20 Dec 24 
+2025-04-22 17:58:03,116:INFO:Usage_Period:    20 Nov - 19 Dec 
+2025-04-22 17:58:03,116:INFO:Due_Date:    1 Feb 25 
+2025-04-22 17:58:03,116:INFO:Tax:    6 
+2025-04-22 17:58:03,116:INFO:Info: Reading Language_Strings.xlsx
+2025-04-22 17:58:03,164:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:58:03,164:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:58:03,244:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:58:03,244:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:58:03,244:INFO:Info: Logo matched on all pages!
+2025-04-22 17:58:03,264:INFO:Info: Promo matched!
+2025-04-22 17:58:03,264:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:58:03,288:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:58:03,304:INFO:Info: Verifiying Page 1
+2025-04-22 17:58:03,304:INFO:Info: No Bill_Ref_no provided. Considering this as Proforma.
+2025-04-22 17:58:04,621:INFO:Info: Verifiying Page 2
+2025-04-22 17:58:04,621:INFO:Info: Payment Received is 0. So, not checking on 2nd page.
+2025-04-22 17:58:04,621:INFO:Info: Verification Completed!
+2025-04-22 17:58:04,621:INFO:====================================================================================================
+2025-04-22 17:58:04,624:INFO:Validation Report:
+2025-04-22 17:58:04,624:INFO:Success: Account_no (1268498288) - Bill_ref_No (nan) - success
+2025-04-22 17:58:04,669:INFO:====================================================================================================
+2025-04-22 17:59:20,837:INFO:Info: Reading input.xlsx
+2025-04-22 17:59:22,197:INFO:Connected (version 2.0, client OpenSSH_5.3)
+2025-04-22 17:59:24,306:INFO:Authentication (password) successful!
+2025-04-22 17:59:25,310:INFO:[chan 0] Opened sftp connection (server version 3)
+2025-04-22 17:59:26,308:INFO:[chan 0] sftp session closed.
+2025-04-22 17:59:27,176:WARNING:Using CPU. Note: This module is much faster with a GPU.
+2025-04-22 17:59:27,522:INFO:Error: No rows found
+2025-04-22 17:59:27,522:INFO:No rows found for the account 268498288
+2025-04-22 17:59:27,522:INFO:Connection closed.
+2025-04-22 17:59:29,922:INFO:MKT_CODE:    2 
+2025-04-22 17:59:29,922:INFO:MKT_CODE_VALUES:    BON 
+2025-04-22 17:59:29,922:INFO:owning_cost_ctr:    1 
+2025-04-22 17:59:29,922:INFO:CURRENCY_CODE_VALUES:    USD 
+2025-04-22 17:59:29,922:INFO:ACCOUNT_CATEGORY:    B2B 
+2025-04-22 17:59:29,922:INFO:LANGUAGE:    PAP 
+2025-04-22 17:59:29,922:INFO:pdf_file:    BILL_0_66880867_1_7752488_-270536.pdf 
+2025-04-22 17:59:29,938:INFO:BILL_REF_NO:    nan 
+2025-04-22 17:59:29,938:INFO:Account_Number:    268498288 
+2025-04-22 17:59:29,938:INFO:Invoice_Date:    20 Dec 24 
+2025-04-22 17:59:29,939:INFO:Usage_Period:    20 Nov - 19 Dec 
+2025-04-22 17:59:29,939:INFO:Due_Date:    1 Feb 25 
+2025-04-22 17:59:29,939:INFO:Tax:    6 
+2025-04-22 17:59:29,939:INFO:Info: Reading Language_Strings.xlsx
+2025-04-22 17:59:29,985:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:59:29,985:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:59:30,033:INFO:Info: Logo matched on all pages!
+2025-04-22 17:59:30,050:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:59:30,050:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:59:30,073:INFO:Info: Promo matched!
+2025-04-22 17:59:30,073:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:59:30,098:WARNING:CropBox missing from /Page, defaulting to MediaBox
+2025-04-22 17:59:30,113:INFO:Info: Verifiying Page 1
+2025-04-22 17:59:30,113:INFO:Info: No Bill_Ref_no provided. Considering this as Proforma.
+2025-04-22 17:59:31,376:INFO:Info: Verifiying Page 2
+2025-04-22 17:59:31,376:INFO:Info: Payment Received is 0. So, not checking on 2nd page.
+2025-04-22 17:59:31,376:INFO:Error: Account number 268498288 not found in the table
+2025-04-22 17:59:31,376:INFO:====================================================================================================
+2025-04-22 17:59:31,376:INFO:Validation Report:
+2025-04-22 17:59:31,376:INFO:Failed: Account_no (268498288) - Bill_ref_No (nan) - Failed
+2025-04-22 17:59:31,438:INFO:====================================================================================================
